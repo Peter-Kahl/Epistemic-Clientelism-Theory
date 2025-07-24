@@ -23,7 +23,7 @@ Download this scholarly work as a PDF for sharing and citation: [PDF download](h
 Cite this work:
 
 ```
-Peter Kahl, “A Critical Look at Andrew Knight’s Blog Post: Towards Genuine Epistemic Justice and Democratic Accountability in Government Policy Design” (2025) available at <https://github.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia>
+Peter Kahl, ‘Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia’ (2025) available at <https://github.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia>
 ```
 ### Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
