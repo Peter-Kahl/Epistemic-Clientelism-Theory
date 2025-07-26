@@ -4,7 +4,9 @@
 
 ![alt text](https://github.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia/blob/main/higher_ed_power_dynamics.jpg?raw=true)
 
-by Peter Kahl; independent scholar; published 24 July 2025
+by Peter Kahl; independent scholar
+
+Published 24 July 2025; v2 edition 26 July 2025
 
 ### Abstract
 
@@ -12,19 +14,18 @@ This paper introduces Epistemic Clientelism Theory (ECT), my original theoretica
 
 ### Keywords
 
-Epistemic Clientelism Theory (ECT), epistemic agency, epistemic autonomy, epistemic justice, fiduciary-epistemic governance, fiduciary accountability, power dynamics, academic conformity, democratic epistemology, political epistemology, Joseph Raz, Michel Foucault, Martin Heidegger, psychological conformity, script theory, institutional governance, academic gatekeeping, epistemic marginalisation, knowledge politics, scholarly authenticity, institutional alienation, systems theory, institutional ethics
+Epistemic Clientelism Theory (ECT), epistemic agency, epistemic autonomy, epistemic justice, fiduciary theory, fiduciary-epistemic governance, fiduciary accountability, power dynamics, academic conformity, democratic epistemology, political epistemology, Joseph Raz, Michel Foucault, Martin Heidegger, psychological conformity, script theory, institutional governance, academic gatekeeping, epistemic marginalisation, knowledge politics, scholarly authenticity, institutional alienation, systems theory, institutional ethics
 
 ---
 
 Correspondence regarding this work is welcome.
 
-Download this scholarly work as a PDF for sharing and citation: [PDF download](https://raw.githubusercontent.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia/master/Kahl_P_Epistemic_Clientelism_Theory_24_July_2025.pdf)
+Download this scholarly work as a PDF for sharing and citation: [PDF download](https://raw.githubusercontent.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia/master/Kahl_P_Epistemic_Clientelism_Theory_v2_26_July_2025.pdf)
 
 Cite this work:
 
 ```
-Peter Kahl, ‘Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia’ (2025) available at <https://github.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia>
+Peter Kahl, ‘Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia’ (v2 edn, 26 July 2025) available at <https://github.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia>
 ```
 ### Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
-
