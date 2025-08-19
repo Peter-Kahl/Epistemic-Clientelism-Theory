@@ -1,12 +1,10 @@
 # Epistemic Clientelism Theory
 
-#### Power Dynamics and the Delegation of Epistemic Agency in Academia
+### Power Dynamics and the Delegation of Epistemic Agency in Academia
 
-![alt text](https://github.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia/blob/main/higher_ed_power_dynamics.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory/blob/main/higher_ed_power_dynamics.jpg?raw=true)
 
-by Peter Kahl; independent scholar
-
-Published 24 July 2025; v2 edition 26 July 2025
+by Peter Kahl, 24 July 2025
 
 ### Abstract
 
@@ -18,14 +16,21 @@ Epistemic Clientelism Theory (ECT), epistemic agency, epistemic autonomy, episte
 
 ---
 
-Correspondence regarding this work is welcome.
+### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-Download this scholarly work as a PDF for sharing and citation: [PDF download](https://raw.githubusercontent.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia/master/Kahl_P_Epistemic_Clientelism_Theory_v2_26_July_2025.pdf)
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Clientelism-Theory/master/Kahl_P_Epistemic_Clientelism_Theory_v2_26_July_2025.pdf)
 
-Cite this work:
+### Cite this work:
 
 ```
-Peter Kahl, ‘Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia’ (v2 edn, 26 July 2025) available at <https://github.com/Peter-Kahl/epistemic-clientelism-theory-power-dynamics-delegation-epistemic-agency-academia>
+Peter Kahl, ‘Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia’ (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory>
 ```
-### Licence
-Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
+
+### Publisher & Licence
+
+First published in Great Britain by Peter Kahl on 24 July 2025.\
+2nd edition published by Lex et Ratio Ltd on 26 July 2025.
+
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
