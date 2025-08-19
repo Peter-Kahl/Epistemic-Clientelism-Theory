@@ -2,6 +2,8 @@
 
 ### Power Dynamics and the Delegation of Epistemic Agency in Academia
 
+#### An analysis of systemic delegation of epistemic agency in academia through clientelist exchange, integrating fiduciary theory, democratic epistemology, Foucault, Heidegger, systems and psychological theories, with proposals for fiduciary-epistemic governance reforms.
+
 ![alt text](https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory/blob/main/higher_ed_power_dynamics.jpg?raw=true)
 
 by Peter Kahl, 24 July 2025
