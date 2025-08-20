@@ -20,18 +20,18 @@ Epistemic Clientelism Theory (ECT), epistemic agency, epistemic autonomy, episte
 
 ### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Clientelism-Theory/master/Kahl_P_Epistemic_Clientelism_Theory_v2_26_July_2025.pdf)
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Clientelism-Theory/master/Kahl_P_Epistemic_Clientelism_Theory_v3_20-AUG-2025.pdf)
 
 ### Cite this work:
 
 ```
-Peter Kahl, Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory>
+Peter Kahl, Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia (3rd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory>
 ```
 
 ### Publisher & Licence
 
 First published in Great Britain by Peter Kahl on 24 July 2025.\
-2nd edition published by Lex et Ratio Ltd on 26 July 2025.
+3rd edition published by Lex et Ratio Ltd on 20 August 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
