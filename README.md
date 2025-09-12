@@ -2,7 +2,7 @@
 
 ### Power Dynamics and the Delegation of Epistemic Agency in Academia
 
-#### An analysis of systemic delegation of epistemic agency in academia through clientelist exchange, integrating fiduciary theory, democratic epistemology, Foucault, Heidegger, systems and psychological theories, with proposals for fiduciary-epistemic governance reforms.
+#### _An analysis of systemic delegation of epistemic agency in academia through clientelist exchange, integrating fiduciary theory, democratic epistemology, Foucault, Heidegger, systems and psychological theories, with proposals for fiduciary-epistemic governance reforms._
 
 by Peter Kahl, 24 July 2025
 
@@ -28,14 +28,14 @@ Epistemic Clientelism Theory (ECT), epistemic agency, epistemic autonomy, episte
 
 ---
 
-### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+### Download
 
 - [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Clientelism-Theory/master/Kahl_P_Epistemic_Clientelism_Theory_v3_20-AUG-2025.pdf)
 
-### Cite this work:
+### Cite this work
 
 ```
-Peter Kahl, Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia (3rd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory> DOI: 10.13140/RG.2.2.27630.88642
+Kahl, P. (2025). Epistemic clientelism theory: Power dynamics and the delegation of epistemic agency in academia (3rd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.27630.88642
 ```
 
 ### Publisher & Licence
