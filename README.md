@@ -28,7 +28,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 
 Kahl, P. (2025). _Epistemic clientelism theory: Power dynamics and the delegation of epistemic agency in academia_ (v3). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory DOI: https://doi.org/10.13140/RG.2.2.27630.88642
 
-### Publisher & Licence
+## Publisher & Licence
 
 First published in Great Britain by Peter Kahl on 24 July 2025.\
 v3 edition published by Lex et Ratio Ltd on 20 August 2025.
