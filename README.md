@@ -2,15 +2,15 @@
 
 ### Power Dynamics and the Delegation of Epistemic Agency in Academia
 
-by Peter Kahl, 24 July 2025
+by Peter Kahl, 2025-07-24; v3: 2025-08-20
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.27630.88642-blue.svg)](https://doi.org/10.13140/RG.2.2.27630.88642)
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.27630.88642-blue.svg)](https://doi.org/10.13140/RG.2.2.27630.88642) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory/blob/main/higher_ed_power_dynamics_2.jpg?raw=true)
 
 ## Abstract
 
-This paper introduces _Epistemic Clientelism Theory_ (ECT), my original theoretical framework designed explicitly to analyse the systemic delegation of epistemic agency within academic institutions through entrenched political power dynamics. I argue that academic hierarchies institutionalise epistemic clientelism—a strategic yet coerced exchange in which scholars surrender epistemic autonomy to institutional authorities in return for professional recognition, material resources, and symbolic rewards. Building rigorously upon my foundational scholarship, particularly _Epistemic Justice and Institutional Responsibility in Academia_ (2025) and _Directors’ Epistemic Duties and Fiduciary Openness_ (2025), I synthesise fiduciary theory, democratic epistemology, Joseph Raz’s service conception of legitimate authority, Michel Foucault’s critique of disciplinary power/knowledge structures, Martin Heidegger’s authenticity versus institutional alienation, psychological theories of conformity (Milgram, Zimbardo), systems theory, political clientelism literature (Scott, Stokes), and script theory (Schank and Abelson). The analysis explicitly demonstrates how epistemic clientelism constitutes profound fiduciary breaches within academia, systematically marginalises alternative epistemological frameworks, undermines scholarly authenticity, and erodes democratic epistemological practices. To address these entrenched institutional failures, I conclude with assertive fiduciary-epistemic governance reforms explicitly designed to dismantle epistemic clientelism, restore epistemic autonomy, revitalise inclusive and participatory knowledge production, and reassert academia’s fiduciary accountability to truth, fairness, and democratic epistemic ideals.
+This paper introduces _Epistemic Clientelism Theory_ (ECT), my original theoretical framework designed explicitly to analyse the systemic delegation of epistemic agency within academic institutions through entrenched political power dynamics. I argue that academic hierarchies institutionalise epistemic clientelism—a strategic yet coerced exchange in which scholars surrender epistemic autonomy to institutional authorities in return for professional recognition, material resources, and symbolic rewards. Building rigorously upon my foundational scholarship, particularly [_Epistemic Justice and Institutional Responsibility in Academia_](https://github.com/Peter-Kahl/Epistemic-Justice-and-Institutional-Responsibility-in-Academia) (2025) and [_Directors’ Epistemic Duties and Fiduciary Openness_](https://github.com/Peter-Kahl/Directors-Epistemic-Duties-and-Fiduciary-Openness) (2025), I synthesise fiduciary theory, democratic epistemology, Joseph Raz’s service conception of legitimate authority, Michel Foucault’s critique of disciplinary power/knowledge structures, Martin Heidegger’s authenticity versus institutional alienation, psychological theories of conformity (Milgram, Zimbardo), systems theory, political clientelism literature (Scott, Stokes), and script theory (Schank and Abelson). The analysis explicitly demonstrates how epistemic clientelism constitutes profound fiduciary breaches within academia, systematically marginalises alternative epistemological frameworks, undermines scholarly authenticity, and erodes democratic epistemological practices. To address these entrenched institutional failures, I conclude with assertive fiduciary-epistemic governance reforms explicitly designed to dismantle epistemic clientelism, restore epistemic autonomy, revitalise inclusive and participatory knowledge production, and reassert academia’s fiduciary accountability to truth, fairness, and democratic epistemic ideals.
 
 ## Keywords
 
@@ -30,8 +30,8 @@ Kahl, P. (2025). _Epistemic clientelism theory: Power dynamics and the delegatio
 
 ## Publisher & Licence
 
-First published in Great Britain by Peter Kahl on 24 July 2025.\
-v3 edition published by Lex et Ratio Ltd on 20 August 2025.
+First published in Great Britain by Peter Kahl, 2025-07-24.\
+v3 edition published by Lex et Ratio Ltd on 2025-08-20.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
